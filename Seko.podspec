@@ -10,7 +10,7 @@ Pod::Spec.new do |spec|
                             LICENSE
                           }
   spec.homepage     = 'https://github.com/mindaugasp-ondato/TSeko.git'
-  spec.authors      = { 'Ondato' => 'info@ondato.com' }
+  spec.authors      = { 'Ondato' => 'mindaugas.puniskis@ondato.com' }
   spec.source       = { :git => 'https://github.com/mindaugasp-ondato/TSeko.git', :tag => spec.version }
   spec.pod_target_xcconfig = { 'BUILD_LIBRARY_FOR_DISTRIBUTION' => 'YES' }
   spec.vendored_frameworks  = 'Binaries/OndatoSDK.xcframework', 'Binaries/FaceTecSDK.xcframework'
