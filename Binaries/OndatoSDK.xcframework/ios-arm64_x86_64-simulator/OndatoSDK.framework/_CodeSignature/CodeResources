@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		d5+aEGhL44e2etbvymgYQxjutd0=
+		h38qrNmxRBkd9y8wzNcejl4p8Vw=
 		</data>
 		<key>CombineLatest+arity.tt</key>
 		<data>
@@ -94,7 +94,7 @@
 		</data>
 		<key>Modules/OndatoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		OHj59fO/mPsxx48eMn2QDW3fMzY=
+		TGlrzf9WT3Opr4HKsYSgvoFY9g4=
 		</data>
 		<key>Modules/OndatoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/OndatoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		OHj59fO/mPsxx48eMn2QDW3fMzY=
+		TGlrzf9WT3Opr4HKsYSgvoFY9g4=
 		</data>
 		<key>Modules/OndatoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -271,7 +271,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0fnI44lNaZrJqq861wvffWP57RiWBOi+bLI83gXoMRE=
+			+L1qp6ZivrElNZO98GEfGvAZBIxAJwYE2to48DkoRaE=
 			</data>
 		</dict>
 		<key>CombineLatest+arity.tt</key>
@@ -418,7 +418,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dy7FWSyYmC5wQiFSysi4cn62w9q9Yt+HhlmoG9S4Uso=
+			/w6CIzpCys13bEWXZslpW+pu9a3jPqCYGsHRVy6GqfY=
 			</data>
 		</dict>
 		<key>Modules/OndatoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -453,7 +453,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Dy7FWSyYmC5wQiFSysi4cn62w9q9Yt+HhlmoG9S4Uso=
+			/w6CIzpCys13bEWXZslpW+pu9a3jPqCYGsHRVy6GqfY=
 			</data>
 		</dict>
 		<key>Modules/OndatoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

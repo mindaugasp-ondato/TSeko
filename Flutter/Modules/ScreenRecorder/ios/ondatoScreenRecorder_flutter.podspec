@@ -1,4 +1,4 @@
-Pod::Spec.new do |spec|
+Pod::Spec.new do |s|
   s.name             = 'ondatoScreenRecorder_flutter'
   s.version          = '1.0.0'
   s.summary          = 'A new flutter plugin project.'
@@ -9,6 +9,8 @@ A new flutter plugin project.
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :git => 'https://github.com/mindaugasp-ondato/TSeko.git' }
+  s.source_files = 'Classes/**/*'
+  s.dependency 'Flutter'
   s.dependency 'Screko'
   
   s.platform = :ios, '13.0'
