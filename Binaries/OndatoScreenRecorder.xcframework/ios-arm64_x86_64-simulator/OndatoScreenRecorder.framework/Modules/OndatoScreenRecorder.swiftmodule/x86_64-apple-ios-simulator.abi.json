@@ -407,7 +407,7 @@
           {
             "kind": "Function",
             "name": "startRecording",
-            "printedName": "startRecording(id:isEnabled:completion:)",
+            "printedName": "startRecording(id:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -419,12 +419,6 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
               },
               {
                 "kind": "TypeFunc",
@@ -459,8 +453,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20OndatoScreenRecorder0C0C14startRecording2id9isEnabled10completionySS_Sbys6ResultOyytAA0abC5ErrorOGctF",
-            "mangledName": "$s20OndatoScreenRecorder0C0C14startRecording2id9isEnabled10completionySS_Sbys6ResultOyytAA0abC5ErrorOGctF",
+            "usr": "s:20OndatoScreenRecorder0C0C14startRecording2id10completionySS_ys6ResultOyytAA0abC5ErrorOGctF",
+            "mangledName": "$s20OndatoScreenRecorder0C0C14startRecording2id10completionySS_ys6ResultOyytAA0abC5ErrorOGctF",
             "moduleName": "OndatoScreenRecorder",
             "declAttributes": [
               "AccessControl"
@@ -1472,13 +1466,6 @@
     "json_format_version": 8
   },
   "ConstValues": [
-    {
-      "filePath": "\/Users\/mindaugas.puniskis\/Documents\/v2\/idv-sdk-ios\/OndatoScreenRecorder\/OndatoScreenRecorder\/OndatoScreenRecorder.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1688,
-      "length": 5,
-      "value": "false"
-    },
     {
       "filePath": "\/Users\/mindaugas.puniskis\/Documents\/v2\/idv-sdk-ios\/OndatoScreenRecorder\/OndatoScreenRecorder\/OndatoScreenRecorderConfiguration.swift",
       "kind": "IntegerLiteral",

@@ -34,12 +34,13 @@ extension OndatoScreenRecorder.Recorder.Status {
   }
 }
 @objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class Recorder : ObjectiveC.NSObject {
+  public typealias RecordingID = Swift.String
   public static let shared: OndatoScreenRecorder.Recorder
   public var isRecording: Swift.Bool {
     get
   }
   public func setStatusObserver(_ observer: @escaping (OndatoScreenRecorder.Recorder.Status) -> Swift.Void)
-  public func startRecording(id: Swift.String, isEnabled: Swift.Bool, completion: @escaping (Swift.Result<Swift.Void, OndatoScreenRecorder.OndatoScreenRecorderError>) -> Swift.Void)
+  public func startRecording(id: OndatoScreenRecorder.Recorder.RecordingID, completion: @escaping (Swift.Result<Swift.Void, OndatoScreenRecorder.OndatoScreenRecorderError>) -> Swift.Void)
   public func stopRecording(completion: @escaping (Swift.Result<OndatoScreenRecorder.OndatoScreenRecording?, OndatoScreenRecorder.OndatoScreenRecorderError>) -> Swift.Void)
   @objc deinit
 }
